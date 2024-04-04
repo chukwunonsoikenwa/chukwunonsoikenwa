@@ -55,7 +55,3 @@ Happy building and stay healthy,
 
 <br />
 <br />
-
-<a href="https://www.linkedin.com/in/nonsoikenwa">
-  <img align="right" alt="Chukwunonso Ikenwa | Linkedin" width="80px" src="PersonalFolder/linked in logo.png" />
-</a>
