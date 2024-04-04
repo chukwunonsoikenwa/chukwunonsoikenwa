@@ -28,7 +28,7 @@
 Thank you for stopping by! 🌟
 
 Happy building and stay healthy,
-# Nonso 🚀
+# Chukwunonso 🚀
 <br />
 
 #### Languages and Tools:
@@ -44,8 +44,9 @@ Happy building and stay healthy,
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/r/r.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/powerbi/powerbi.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/tableau/tableau.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/postman/postman.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/database/database.png"></code>
