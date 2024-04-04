@@ -39,7 +39,7 @@ Happy building and stay healthy,
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/data-visulaization/data-visualization.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/data-science/data-science.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/r/r.png"></code>
