@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=318D97FB&random=false&width=435&lines=Feel+free+to+connect)](https://git.io/typing-svg)
 
-<img ">
+<img src="Email header for newsletter.png" alt="Introduction to my page">
 
 <!--
 -->
