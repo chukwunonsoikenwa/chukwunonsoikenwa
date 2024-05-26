@@ -36,13 +36,13 @@
 - 🕵️ Business Analyst: Bridging the gap between technology and business needs.
 - 🌱 Data Science: Building machine learning models and predictive systems. 
   
-- 👯 My Resume can be found [here](https://docs.google.com/document/d/10qBWvZxwORDp3tN5NyLmEMru4Sh9eXkNhccXDIi1RUI/edit?usp=sharing)
+- 👯 My Resume can be found [here](https://docs.google.com/document/d/1SYF_9yCg6977ZIof2OdBUjVdJdxmv211nIUGVdObiFI/edit?usp=sharing)
 
 # Let's Connect:
 - I believe in the power of collaboration and learning from one another. 
 - Feel free to explore my repositories, share your thoughts, and let's build something incredible together. 
 
-- If you have questions, ideas, or just want to chat, don't hesitate to reach out.
+- If you have questions, or ideas, or want to chat, don't hesitate to reach out.
 
 Thank you for stopping by! 🌟
 
