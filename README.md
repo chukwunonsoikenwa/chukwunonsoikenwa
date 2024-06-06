@@ -36,7 +36,7 @@
 - 🕵️ Business Analyst: Bridging the gap between technology and business needs.
 - 🌱 Data Science: Building machine learning models and predictive systems. 
   
-- 👯 My Resume can be found [here](https://flowcv.com/resume/rstsjm6e6e)
+- 👯 My Resume can be found [here](https://docs.google.com/document/d/1lQkOOdn8LABxqu6q2uBAIOJLiDpujS68H4z0vEgkBAg/edit?usp=sharing)
 
 # Let's Connect:
 - I believe in the power of collaboration and learning from one another. 
