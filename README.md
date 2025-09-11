@@ -26,7 +26,7 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/database/database.png"></code>
 
 
-### I am passionate and multi-talented with a love for all things products, tech, and, data. 
+### I am passionate and multi-talented with a love for all things products, tech, and data. 
 
 # About Me:
 
