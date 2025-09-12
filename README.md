@@ -9,16 +9,17 @@
 
 #### Languages and Tools:
 
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/devops/devops.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/terraform/terraform.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/aws/aws.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/r/r.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/postman/postman.png"></code>
@@ -31,12 +32,12 @@
 # About Me:
 
 - 💻 Product Manager: Managing the entire lifecycle of a product.
-- 📊 Data Analyst: Unraveling insights from complex datasets.
+- 📊 DevOps: Developer and Operations system managing scalable infrastructure with secuirity as the ain focus. 
 - 📈 Business Intelligence Analyst: Turning data into actionable strategies.
 - 🕵️ Business Analyst: Bridging the gap between technology and business needs.
 - 🌱 Data Science: Building machine learning models and predictive systems. 
   
-- 👯 My Resume can be found [here](https://docs.google.com/document/d/1lQkOOdn8LABxqu6q2uBAIOJLiDpujS68H4z0vEgkBAg/edit?usp=sharing)
+- 👯 My Resume can be found [here](https://drive.google.com/file/d/1pvnKYUTj5V9DC5ygkOqcKa4C-WDmdYuk/view?usp=drive_link)
 
 # Let's Connect:
 - I believe in the power of collaboration and learning from one another. 
