@@ -15,16 +15,10 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/terraform/terraform.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/aws/aws.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/r/r.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/postman/postman.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/database/database.png"></code>
 
 
 ### I am passionate and multi-talented with a love for all things products, tech, and data. 
