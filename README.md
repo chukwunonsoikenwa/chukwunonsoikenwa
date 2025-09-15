@@ -26,12 +26,10 @@
 # About Me:
 
 - 💻 Product Manager: Managing the entire lifecycle of a product.
-- 📊 DevOps: Developer and Operations system managing scalable infrastructure with secuirity as the ain focus. 
-- 📈 Business Intelligence Analyst: Turning data into actionable strategies.
-- 🕵️ Business Analyst: Bridging the gap between technology and business needs.
+- 📊 DevOps: Developer and Operations system managing scalable infrastructure with security as the main focus. 
 - 🌱 Data Science: Building machine learning models and predictive systems. 
   
-- 👯 My Resume can be found [here](https://drive.google.com/file/d/1pvnKYUTj5V9DC5ygkOqcKa4C-WDmdYuk/view?usp=drive_link)
+- 👯 My Resume can be found [here](https://drive.google.com/file/d/1ANgKgRmbR9s-7DrERIXCxoTvrDUlxaIo/view?usp=drive_link)
 
 # Let's Connect:
 - I believe in the power of collaboration and learning from one another. 
