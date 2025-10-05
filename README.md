@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=318D97FB&random=false&width=435&lines=Feel+free+to+connect)](https://git.io/typing-svg)
 
-<img src="Email header for newsletter.png" alt="Introduction to my page">
+<img src="https://github.com/chukwunonsoikenwa/chukwunonsoikenwa/blob/14734ad5f4cfc21b983fb354631d346c9667e5f9/Email%20header%20for%20newsletter%20(1).png" alt="Introduction to my page">
 
 <!--
 -->
