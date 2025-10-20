@@ -25,10 +25,11 @@
 
 # About Me:
 
+- 🚀 Product Manager: Maning and coordinating end-to-end development of innovative products via product lifecycle.
 - 📊 DevOps: Developer and Operations system managing scalable infrastructure with security as the main focus. 
 - 🌱 Data Science: Building machine learning models and predictive systems. 
   
-- 👯 My Resume can be found [here](https://drive.google.com/file/d/1wPEHu-N3f8o85rQ_ogMZxDhjYrcBcr6o/view?usp=drive_link)
+- 👯 My Resume can be found [here](linkedin.com/in/nonsoikenwa)
 
 # Let's Connect:
 - I believe in the power of collaboration and learning from one another. 
