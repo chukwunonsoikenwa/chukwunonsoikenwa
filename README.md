@@ -42,9 +42,23 @@ Happy building and stay healthy,
 # Chukwunonso 🚀
 <br />
 
-
-|<a href="https://github.com/chukwunonsoikenwa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chukwunonsoikenwa&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="Chukwunonso' github stats" /></a> | <a href="https://github.com/chukwunonsoikenwa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwunonsoikenwa&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
-| ------------- | -------------- |
-
-<br />
-<br />
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/chukwunonsoikenwa">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=chukwunonsoikenwa&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" 
+          alt="Chukwunonso Ikenwa GitHub stats"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/chukwunonsoikenwa">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwunonsoikenwa&layout=compact&theme=dark&hide_border=true" 
+          alt="Top Languages"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
