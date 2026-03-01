@@ -47,7 +47,7 @@ Happy building and stay healthy,
     <td>
       <a href="https://github.com/chukwunonsoikenwa">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=chukwunonsoikenwa&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" 
+          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chukwunonsoikenwa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
           alt="Chukwunonso Ikenwa GitHub stats"
         />
       </a>
@@ -55,7 +55,7 @@ Happy building and stay healthy,
     <td>
       <a href="https://github.com/chukwunonsoikenwa">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwunonsoikenwa&layout=compact&theme=dark&hide_border=true" 
+          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chukwunonsoikenwa&layout=compact&theme=tokyonight&hide_border=true" 
           alt="Top Languages"
         />
       </a>
