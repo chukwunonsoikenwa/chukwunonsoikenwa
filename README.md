@@ -28,7 +28,7 @@
 
 - 🚀 Product Manager: Maning and coordinating end-to-end development of innovative products via product lifecycle.
 - 📊 DevOps: Developer and Operations system managing scalable infrastructure with security as the main focus. 
-- 🌱 Data Science: Building machine learning models and predictive systems. 
+- 🌱 Data professional: Building machine learning models, predictive systems, and data pipelines. 
 
 # Let's Connect:
 - I believe in the power of collaboration and learning from one another. 
